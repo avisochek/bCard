@@ -4,10 +4,10 @@ body {
 }
 
 #bCard {
-  max-width:50%;
-  padding:20px;
-  background-color:white;
-  box-shadow:5px 5px rgba(0,0,0,0.1)
+  max-width: 50%;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 5px 5px rgba(0,0,0,0.1)
 }
 
 .quote {
@@ -16,9 +16,18 @@ body {
 	font-size: 1.5rem;
 }
 
-#bCard img{
-  border-radius:50%;
-  border:5px solid #ecf0f1;
-  width:50%;
+#bCard img {
+  border-radius: 50%;
+  border: 5px solid #ecf0f1;
+  width: 50%;
   max-width: 150px;
 }
+
+a:visited {
+	color: #ECF0F1;
+}
+
+a:hover {
+	color: #2980b9;
+}
+
